@@ -16,5 +16,5 @@ DESCRIPTION-- I HAVE PERFORMED THIS TASK IN MS-EXCEL AND MS-WORD , THIS TASK INC
 
 **OUTPUT**
 
-
+[seo-strategy-template.docx](https://github.com/user-attachments/files/21092082/seo-strategy-template.docx)
 
