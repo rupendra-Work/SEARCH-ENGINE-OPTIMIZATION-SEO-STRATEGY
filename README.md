@@ -18,3 +18,5 @@ DESCRIPTION-- I HAVE PERFORMED THIS TASK IN MS-EXCEL AND MS-WORD , THIS TASK INC
 
 [seo-strategy-template.docx](https://github.com/user-attachments/files/21092082/seo-strategy-template.docx)
 
+[Copy of SEO checklist.xlsx](https://github.com/user-attachments/files/21092086/Copy.of.SEO.checklist.xlsx)
+
